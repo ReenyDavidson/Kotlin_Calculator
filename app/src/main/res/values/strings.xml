@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="c">C</string>
+    <string name="minus_sign">-</string>
+    <string name="bracket_open_sign">(</string>
+    <string name="bracket_close_sign">)</string>
+    <string name="equalTo_sign">=</string>
+    <string name="dot_sign">.</string>
+    <string name="power_sign">^</string>
+    <string name="three">3</string>
+    <string name="_1">1</string>
+    <string name="plus_sign">+</string>
+    <string name="_2">2</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_4">4</string>
+    <string name="_9">9</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="multiplication_sign">×</string>
+    <string name="division_sign">÷</string>
+    <string name="clear_button">C</string>
+    <string name="_0">0</string>
+</resources>
